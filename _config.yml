@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yilun Jin"
+title                    : "Zhengfei ZHENG"
 title_separator          : "-"
-name                     : &name "Yilun Jin"
+name                     : &name "Zhengfei ZHENG"
 description              : &description "Ph.D. Student in CSE at the Hong Kong University of Science and Technology"
 url                      : https://KL4805.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yilun Jin"
-  avatar           : "1寸 202012.jpeg"
-  bio              : "PhD student at CSE, HKUST. Machine Learning/Artificial Intelligence"
+  name             : "Zhengfei ZHENG"
+  avatar           : "zhengfeizheng.jpg"
+  bio              : "PhD student at Civil Engineering, HKUST. Smart Mobility/AI in Transportation"
   location         : "Hong Kong SAR, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en-EN"
-  email            : "yilun.jin@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "zhengfei.zheng@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,10 +97,10 @@ author:
   foursquare       :
   google_plus      :
   keybase          :
-  instagram        : aalanyj/
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : yilun-jin-54580a151/
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
