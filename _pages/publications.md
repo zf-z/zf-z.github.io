@@ -14,7 +14,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com/ci
 
 * **Data-driven analysis on matching probability, routing distance and detour distance in ride-pooling services** \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X20308214)\], Jintao Ke, **Zhengfei Zheng** (Corresponding author), Hai Yang, Jieping Ye. Transportation Research Part C: Emerging Technologies 124 (2021): 102922. <br> 
 
-* **Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network** \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580)\], Jintao Ke, Xiaoran Qin, Hai Yang, **Zhengfei Zheng**, Zheng Zhu, Jieping Ye. Transportation Research Part C: Emerging Technologies 122 (2021): 102858.
+* **Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network** \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X20307580)\], Jintao Ke, Xiaoran Qin, Hai Yang, **Zhengfei Zheng**, Zheng Zhu, Jieping Ye. Transportation Research Part C: Emerging Technologies 122 (2021): 102858. <br>
 
 ## 2020
 * **On ride-pooling and traffic congestion** \[[link](https://www.sciencedirect.com/science/article/pii/S0191261520304094)\], Jintao Ke, Hai Yang, **Zhengfei Zheng**
@@ -22,7 +22,7 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com/ci
 
 * **Adaptive perimeter control for multi-region accumulation-based models with state delays** \[[link](https://www.sciencedirect.com/science/article/pii/S0191261518303096)\], Jack Haddad, **Zhengfei Zheng**. Transportation Research Part B: Methodological 137 (2020): 133-153.  <br>
 
-* **Analysis of multi-modal commute behavior with feeding and competing ridesplitting services** \[[link](https://www.sciencedirect.com/science/article/pii/S0965856419307104)\], Zheng Zhu, Xiaoran Qin, Jintao Ke, **Zhengfei Zheng**, Hai Yang. Transportation Research Part A: Policy and Practice 132 (2020): 713-727. 
+* **Analysis of multi-modal commute behavior with feeding and competing ridesplitting services** \[[link](https://www.sciencedirect.com/science/article/pii/S0965856419307104)\], Zheng Zhu, Xiaoran Qin, Jintao Ke, **Zhengfei Zheng**, Hai Yang. Transportation Research Part A: Policy and Practice 132 (2020): 713-727. <br>
 
 ## 2019
 * **A generalized Bayesian traffic model** \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X18318199)\], Zheng Zhu, Shanjiang Zhu, **Zhengfei Zheng**, Hai Yang. Transportation Research Part C: Emerging Technologies 108 (2019): 182-206.
