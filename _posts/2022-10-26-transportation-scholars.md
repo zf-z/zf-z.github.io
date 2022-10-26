@@ -1,7 +1,7 @@
 ---
 title: 'Top Transportation Researchers in the World'
-date: 2022-10-14
-permalink: /posts/2022/Transportation_Scholar/
+date: 2022-10-26
+permalink: /posts/2022/10/Transportation_Scholar/
 tags:
   - Transportation
   - Scholar
