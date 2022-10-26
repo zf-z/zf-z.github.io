@@ -28,32 +28,6 @@ Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.
 
 News
 ======
-<!-- \[July 2022\] Invited to serve as Reviewer (Program Committee Member) for **AAAI 2023** and **ICLR 2023**. 
-
-\[July 2022\] Recognized as an **Outstanding Reviewer** (Top 10%) of ICML 2022!
-
-\[June 2022\] Invited to serve as a Reviewer for the new **[LoG](https://logconference.org/)** Conference 2022! 
-
-\[May 2022\] CrossTReS is accepted at **KDD 2022**. Congratulations!
-
-\[March 2022\] Invited to serve as a Reviewer for **NeurIPS 2022** and its **Datasets and Benchmarks Track**. 
-
-\[February 2022\] Invited to serve as a Reviewer for **[TMLR](https://www.jmlr.org/tmlr/)**.
-
-\[January 2022\] Invited to serve as a Reviewer for **ICML 2022**. 
-
-\[August 2021\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
-
-\[July 2021\] Invited to the Program Committee Board (i.e. to serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
-
-\[June 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021 Datasets and Benchmarks Track** and **ICLR 2022**. 
-
-\[May 2021\] SecureBoost is accepted at **IEEE Intelligent Systems**. Congratulations to my co-authors! 
-
-\[April 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021**. 
-
-\[January 2021\] One co-authored paper is accepted at **TheWebConf 2021** as a long paper. Congratulations to my co-authors! -->
-
 \[December 2020\] One co-authored paper is accepted Transportation Research Part B: Methodological !
 
 \[May 2019\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
@@ -88,15 +62,15 @@ An image demonstrating genres of single malt scotch is [here](http://kl4805.gith
 
 Some Friends
 ======
-<!-- I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
+Some of my elite friends are excellent in different aspects and set good examples for my life, listed below.
 
-[Hongbo Ye](https://hb-ye.github.io/) (Research Assistant Professor at Hong Kong Polytechnic University, interesting guy). 
+[Hongbo Ye](https://hb-ye.github.io/), Research Assistant Professor at Hong Kong Polytechnic University, an interesting guy. 
 
-[Jintao Ke](https://sites.google.com/view/kejintao) (Assistant Professor at the University of Hong Kong, Rising star). 
+[Jintao Ke](https://sites.google.com/view/kejintao), Assistant Professor at the University of Hong Kong, a rising star. 
 
-[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859)(Associate Professor at Tianjin, published several books of Speculative Fiction)
+[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin, published several books of speculative fiction
 
-[Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu)(A lecturer at the university of Edinburgh)
+[Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu),  A lecturer at the university of Edinburgh.
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
