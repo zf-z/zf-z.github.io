@@ -1,6 +1,6 @@
 ---
 title: 'Materials for Convex optimization and classical algorithms'
-date: 2022-08-14
+date: 2022-10-14
 permalink: /posts/2022/10/2022-10-convex-optimization/
 tags:
   - study
