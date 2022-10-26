@@ -86,14 +86,18 @@ I am a self-drive tour enthusiast. I have been travelled to more than 20 countri
 
 An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg). -->
 
-<!-- Some Friends
-====== -->
+Some Friends
+======
 <!-- I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
-[Haodong Duan](https://kennymckormick.github.io/) (Ph.D Student at the Chinese University of Hong Kong, Computer Vision). 
+[Hongbo Ye](https://hb-ye.github.io/) (Research Assistant Professor at Hong Kong Polytechnic University, interesting guy). 
 
-[Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at Boston University, Network measurement). 
+[Jintao Ke](https://sites.google.com/view/kejintao) (Assistant Professor at the University of Hong Kong, Rising star). 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script> --> -->
+[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859)(Associate Professor at Tianjin, published several books of Speculative Fiction)
+
+[Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu)(A lecturer at the university of Edinburgh)
+
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
