@@ -49,7 +49,6 @@ Some Friends
 ======
 Some of my elite friends are excellent in different aspects and set good examples for my life, listed below.
 
-<br>
 [Hongbo Ye](https://hb-ye.github.io/), Research Assistant Professor at Hong Kong PolyU, an interesting guy. 
 
 [Jintao Ke](https://sites.google.com/view/kejintao), Assistant Professor at the University of Hong Kong, a rising star. 
