@@ -1,5 +1,5 @@
 ---
-title: 'Transportation research journal'
+title: 'Transportation research journals'
 date: 2022-10-20
 permalink: /posts/2022/transportation_research_journal/
 tags:
@@ -7,7 +7,7 @@ tags:
   - Journal
 ---
 
-The recent journal ranking by its IF in TRANSPORTATION SCIENCE & TECHNOLOGY.
+The recent ranking of transportation journals by its IF in TRANSPORTATION SCIENCE & TECHNOLOGY. 
 
 
 | NO. | Journal name                                                                                    | Total Citations | 2021 JIF | JIF Quartile | Category                                   |
@@ -52,3 +52,5 @@ The recent journal ranking by its IF in TRANSPORTATION SCIENCE & TECHNOLOGY.
 | 38  | Promet-Traffic & Transportation                                                                 | 659             | 0.909    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 | 39  | ITE JOURNAL-INSTITUTE OF TRANSPORTATION ENGINEERS                                               | 472             | 0.716    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 | 40  | International Journal of Heavy Vehicle Systems                                                  | 250             | 0.568    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
+
+Source: https://jcr.clarivate.com/jcr/browse-journals
