@@ -32,7 +32,7 @@ News
 
 \[Aug 2020\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
 
-\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate ! 
+\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate,\[[slides](https://zf-z.github.io/files/Zhengfei_PhD_Qualifying%20Exam.pdf)\]! 
 
 \[June 2018\] Came to HKUST Campus and started my Ph.D journey !
 
