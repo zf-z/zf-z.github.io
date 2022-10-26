@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: null
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my curriculum vitae [here](https://zf-z.github.io/files/CV-Zhengfei-2022-Oct.pdf). 
+## You can find my curriculum vitae [here](https://zf-z.github.io/files/CV-Zhengfei-2022-Oct.pdf). 
 
 (Latest Update Oct 2022)
