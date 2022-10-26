@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other Experiences"
+title: null
 permalink: /services/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 # Conference organization 
 - Helper, ISTTT24, 2022.
 - Helper, HKSTS23, 24, 25, 2019-2021.
-- Helper, the International Symposium on the Recent Advances in Intelligent Transportation Systems and Traffic Flow Theory: The Frontier and Challenges. 2014, Zhengjiang University.
+- Helper, the International Symposium on the Recent Advances in Intelligent Transportation Systems and Traffic Flow Theory: The Frontier and Challenges. 2014, Zhejiang University.
 
 # Internship and project experience
 - Intern in DiDi Chuxing, working on big data analytics, Aug-Dec 2019, Beijing.
