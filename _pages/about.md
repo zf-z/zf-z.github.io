@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student at the Civil Department, HKUST, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/). My primary research interests inlcude smart mobility and data-driven study in tranportation for some emerging problems, including: 
-- **Ride-sourcing markets**
-    - **Pricing and regulations** \[GraLSP, AAAI'20; GraphSTONE, KDD'20; GraphMSE, AAAI'21; GSKN, WWW'21\]
-    - **Ride-pooling matching mechanism** \[EPNE, ECAI'20\]
-- **Effective Learning under the Lack of Data**
-    - **Transfer Learning** \[CrossTReS, KDD'22; MUSDAC, IJCAI'20\]
-    - **Federated Learning** \[SecureBoost, IEEE Intel. Sys. 2021\]
+- **Emerging Smart Mobility Service**
+    - **Ride-sourcing markets**
+     - **Pricing and regulations** 
+     - **Ride-pooling matching mechanism**
+    - **Bike Sharing**
+- **Artificial Intelligence for Transportation**
+    - **Machine Learning for OD/speed/flow prediction** 
+    - **Reinforcement Learning applied to ride-sourcing service** 
+- **Macroscopic Fundamental Diagram**
+- **Traffic Flow Theory and Signal Control**
 
-Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn), China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
+Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree supervised by Asst. Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and the first year supervised by Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/) in Transportation Engineering and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
 
 You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.edu.cn).
 
