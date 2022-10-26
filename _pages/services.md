@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <br>
-<br>
 # Paper review
 - Journal review: TR-Part C, Transportation Research Record, IEEE ITS
 - Conference paper review: COTA
