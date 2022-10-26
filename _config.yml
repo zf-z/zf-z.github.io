@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhengfei ZHENG"
   avatar           : "zhengfeizheng.jpg"
-  bio              : "PhD student at Civil Engineering, HKUST. Smart Mobility/AI in Transportation"
+  bio              : "PhD student at Civil Engineering, HKUST."
   location         : "Hong Kong SAR, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en"
   email            : "zhengfei.zheng@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
