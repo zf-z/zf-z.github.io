@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my curriculum vitae [here](https://kl4805.github.io/files/Curriculum_Vitae.pdf). 
+You can find my curriculum vitae [here](https://zf-z.github.io/files/CV-Zhengfei-2022-Oct.pdf). 
 
-(Latest Update July 2022)
+(Latest Update Oct 2022)
