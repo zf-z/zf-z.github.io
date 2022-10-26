@@ -28,9 +28,9 @@ Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.
 
 News
 ======
-\[December 2020\] One co-authored paper is accepted Transportation Research Part B: Methodological !
+\[December 2021\] One co-authored paper is accepted Transportation Research Part B: Methodological !
 
-\[May 2019\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
+\[Aug 2020\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
 
 \[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate.. 
 
@@ -44,27 +44,14 @@ I hold a broad range of interests to make a enjoyable and meaningful life.
 
 I enjoy outdoor and water sports, including Jogging, Hiking, Fishing, Windsurfing (Level 1 certificate),  Scuba Diving (first scuba certification level). And some other sports, like badminton, table tennis, snooker, etc.
 
-I am a self-drive tour enthusiast. I have been travelled to more than 20 countries around the world. I also write some articles on [zhihu](https://www.zhihu.com/people/zhengfei-zheng) to answer some interested questions.
+I am a self-drive tour enthusiast. I have been travelled to more than 20 countries around the world. I also write some answers on [zhihu](https://www.zhihu.com/people/zhengfei-zheng) to interesting questions.
 
-<!-- I am an alcoholist, I like the following types of alcohol. 
-
-- Beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.). 
-
-- Vodka. **Smirnoff Black, Grey Goose and Russian Standards** are of high quality.
-
-- Whiskey. For single malts, I like **Talisker and Lagavulin**. For blended, **Johnnie Walker Double Black** is worth a try. 
-
-- Bourbon. I have only tried **Maker's Mark** and I found it charming.
-
-- Gin. The taste of Gin is a highly personalized matter. I enjoy **The Botanists**. 
-
-An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg). -->
 
 Some Friends
 ======
 Some of my elite friends are excellent in different aspects and set good examples for my life, listed below.
 
-[Hongbo Ye](https://hb-ye.github.io/), Research Assistant Professor at Hong Kong Polytechnic University, an interesting guy. 
+[Hongbo Ye](https://hb-ye.github.io/), Research Assistant Professor at Hong Kong PolyU, an interesting guy. 
 
 [Jintao Ke](https://sites.google.com/view/kejintao), Assistant Professor at the University of Hong Kong, a rising star. 
 
@@ -72,6 +59,9 @@ Some of my elite friends are excellent in different aspects and set good example
 
 [Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu),  A lecturer at the university of Edinburgh.
 
+[Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer from Beihang University.
+
+<br>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
