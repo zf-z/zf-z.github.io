@@ -30,14 +30,12 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com/ci
 
 
 # Conference or Workshop Papers
-
 ## 2017
 * **Distributed adaptive perimeter control for large-scale urban road networks with delayed state interconnections**\[[link](https://www.sciencedirect.com/science/article/pii/S2405896317310029)\], **Zhengfei Zheng**, Jack Haddad. IFAC-PapersOnLine 50, no. 1 (2017): 5295-5300.<br>
 
 * **Adaptive perimeter control with state delays in two urban regions** \[[link](https://trid.trb.org/view/1437840)\], Jack Haddad, **Zhengfei Zheng**. TRB 96th Annual Meeting Compendium of Papers, Washington DC, United States.  <br>
 
 # Working papers
-
 -	**Zhengfei Zheng**, Jun Wang, Wei Liu, Hai Yang. Competition in complementary transport services: integrating bike sharing service with existing public transit systems. <br>
 -	**Zhengfei Zheng**, Jintao Ke, Hai Wang, Hai Yang. Ridesourcing markets with a bundled service option. <br>
 -	**Zhengfei Zheng**, Hai Yang. Ridesourcing markets with a bundled service option in presence of detour and matching probability.<br>
