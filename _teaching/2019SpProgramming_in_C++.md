@@ -1,11 +1,12 @@
 ---
-title: "Practice of Programming in C/C++"
+title: "CIVL5610-Urban Transportation Networks Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2019SpPKU
-venue: "School of EECS, Peking University"
-date: 2019-03-01
-location: "Beijing, China"
+venue: "Department of Civil and Environmental Engineering"
+date: 2021-09-01
+location: "Hong Kong, China"
 ---
 
-Teaching Assistant for the course *Practice of Programming in C/C++* at Peking University, 2019 Spring, hosted by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
+Teaching Assistant for the course CIVL5610-Urban Transportation Networks Analysis,instructed by Hai Yang.
+- 2021 Fall
