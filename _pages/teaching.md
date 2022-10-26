@@ -27,7 +27,7 @@ author_profile: true
 <br>
 <br>
 
-# Assisting my supervisor on Mentoring students
+# Assisting my supervisor on mentoring students
 ## Final year project of undergraduate students
 - **2022**: Wong Yu Ching, Ng Ka Hei
 - **2021**: Chan Ho Ming, Lau Cheuk Kan Kevin, Leon Liang Vannesa, Leung, Tsz Chung
