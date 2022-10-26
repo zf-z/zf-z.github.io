@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Civil Department, HKUST, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/). My primary research interests inlcude smart mobility and data-driven study in tranportation for some emerging problems, including: 
+I am currently a Ph.D. student at the Civil Department, HKUST, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/), Hong Kong. My primary research interests inlcude smart mobility and data-driven study in tranportation for some emerging problems, including: 
 - **Emerging Smart Mobility Service**
-    - **Ride-sourcing markets**
-     - **Pricing and regulations** 
-     - **Ride-pooling matching mechanism**
-    - **Bike Sharing**
+    - Ride-sourcing markets
+     - Pricing and regulations
+     - Ride-pooling matching mechanism
+    - Bike Sharing
 - **Artificial Intelligence for Transportation**
-    - **Machine Learning for OD/speed/flow prediction** 
-    - **Reinforcement Learning applied to ride-sourcing service** 
+    - Machine Learning for OD/speed/flow prediction
+    - Reinforcement Learning applied to ride-sourcing service
 - **Macroscopic Fundamental Diagram**
 - **Traffic Flow Theory and Signal Control**
 
-Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree supervised by Asst. Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and the first year supervised by Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/) in Transportation Engineering and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
+Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree supervised by Asst. Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and the first year supervised by Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/) in Transportation Engineering. I got my bachelor's degree from [Harbin Institute of Technology](http://www.hit.edu.cn/), Harbin, China in 2013.  
 
-You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.edu.cn).
+You can contact me via (zhengfei.zheng \[at\] connect.ust.hk).
 
 News
 ======
