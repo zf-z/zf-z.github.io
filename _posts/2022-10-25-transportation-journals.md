@@ -1,7 +1,7 @@
 ---
 title: 'Transportation research journals'
-date: 2022-10-20
-permalink: /posts/2022/transportation_research_journal/
+date: 2022-10-25
+permalink: /posts/2022/10/transportation_research_journal
 tags:
   - Transportation
   - Journal
