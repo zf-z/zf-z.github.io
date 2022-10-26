@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Civil Department, [HKUST](https://hkust.edu.hk/), advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/), Hong Kong. My primary research interests inlcude smart mobility and data-driven study in tranportation for some emerging problems, including: 
+I am currently a Ph.D. student at the Civil Department, [HKUST](https://hkust.edu.hk/), advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/), Hong Kong. My primary research interests inlcude smart mobility and data-driven study in transportation for some emerging problems, including: 
 - **Emerging Smart Mobility Service**
     - Ride-sourcing markets
      - Pricing and regulations
@@ -32,7 +32,7 @@ News
 
 \[Aug 2020\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
 
-\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate.. 
+\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate ! 
 
 \[June 2018\] Came to HKUST Campus and started my Ph.D journey !
 
