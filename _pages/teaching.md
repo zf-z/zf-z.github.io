@@ -1,20 +1,21 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Assistant
 ## Undergraduate Course
-- CIVL2170-Infrastructure Systems Engineering and Management
-- CIVL3610-Traffic and Transportation Engineering
-- CIVL4620-Transportation System Operations
+- CIVL2170-Infrastructure Systems Engineering and Management, instructed by Prof. Hai Yang
+- CIVL3610-Traffic and Transportation Engineering, instructed by Prof. Hai Yang
+- CIVL4620-Transportation System Operations, instructed by Prof. Hai Yang
 
 ## Graduate Course
-- CIEM5620 and CIVL 5620-Travel Demand Analysis
-- CIVL5610-Urban Transportation Networks Analysis
+- CIEM5620 and CIVL 5620-Travel Demand Analysis, instructed by Prof. Hai Yang
+- CIVL5610-Urban Transportation Networks Analysis, instructed by Prof. Hai Yang
 
+<br>
+<br>
 
 # Assisting my supervisor on Mentoring students
 ## Final year project of undergraduate students
