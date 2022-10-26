@@ -29,17 +29,16 @@ You can also find my papers in [my Google Scholar](https://scholar.google.com/ci
 
 
 # Conference or Workshop Papers
-## 2017
 * **Distributed adaptive perimeter control for large-scale urban road networks with delayed state interconnections**\[[link](https://www.sciencedirect.com/science/article/pii/S2405896317310029)\], **Zhengfei Zheng**, Jack Haddad. IFAC-PapersOnLine 50, no. 1 (2017): 5295-5300.<br>
 
 * **Adaptive perimeter control with state delays in two urban regions** \[[link](https://trid.trb.org/view/1437840)\], Jack Haddad, **Zhengfei Zheng**. TRB 96th Annual Meeting Compendium of Papers, Washington DC, United States.  <br>
 
 # Presenations
-- On ride-pooling and traffic congestion. Online workshop, organized by Dr. Simon Hu at Zhejiang University and Professor Michael GH Bell at University of Sydney, 2020,\[[link](https://zjui.tselab.org/en/post/201211_workshop/)\].
-- The effect of bundled option in ride-sourcing markets on travel behavior. the 3rd International Symposium on Multimodal Transportation (ISMT 2019), National University of Singapore. Dec 6-7, 2019.
-- Can ride-sharing alleviate traffic congestion ? INFORMS TSL workshop, Vienna, Austria. July 15 - 18, 2019.
-- Distributed adaptive perimeter control for large-scale urban road networks with delayed state interconnections. The 20th World Congress of the International Federation of Automatic Control, Toulouse, France, July 7-15, 2017.
-- Adaptive perimeter control with state delays in two urban regions. The 97th Annual Meeting of the Transportation Research Board (TRB 2017), Washington, DC, USA, January 7-11.
+- **On ride-pooling and traffic congestion**. Online workshop, organized by Dr. Simon Hu at Zhejiang University and Professor Michael GH Bell at University of Sydney, 2020,\[[link](https://zjui.tselab.org/en/post/201211_workshop/)\].
+- **The effect of bundled option in ride-sourcing markets on travel behavior**. the 3rd International Symposium on Multimodal Transportation (ISMT 2019), National University of Singapore. Dec 6-7, 2019.
+- **Can ride-sharing alleviate traffic congestion ?** INFORMS TSL workshop, Vienna, Austria. July 15 - 18, 2019.
+- **Distributed adaptive perimeter control for large-scale urban road networks with delayed state interconnections**. The 20th World Congress of the International Federation of Automatic Control, Toulouse, France, July 7-15, 2017.
+- **Adaptive perimeter control with state delays in two urban regions**. The 97th Annual Meeting of the Transportation Research Board (TRB 2017), Washington, DC, USA, January 7-11.
 
 # Working papers
 -	**Zhengfei Zheng**, Jun Wang, Wei Liu, Hai Yang. Competition in complementary transport services: integrating bike sharing service with existing public transit systems. <br>
