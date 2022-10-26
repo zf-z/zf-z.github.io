@@ -1,7 +1,7 @@
 ---
 title: 'Some useful optimal control software'
 date: 2022-10-20
-permalink: /posts/2022/optimal_control_software/
+permalink: /posts/2022/10/optimal_control_software/
 tags:
   - software
   - optimization
