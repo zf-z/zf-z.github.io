@@ -1,7 +1,7 @@
 ---
 title: 'How to use Git'
 date: 2022-10-01
-permalink: /posts/2022/git_tutorial/
+permalink: /posts/2022/10/2022-10-git-tutorial/
 tags:
   - software
   - git
