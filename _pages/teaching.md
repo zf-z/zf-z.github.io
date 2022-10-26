@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Teaching"
@@ -11,7 +10,6 @@ author_profile: true
 - CIVL2170-Infrastructure Systems Engineering and Management
 - CIVL3610-Traffic and Transportation Engineering
 - CIVL4620-Transportation System Operations
-
 
 ## Graduate Course
 - CIEM5620 and CIVL 5620-Travel Demand Analysis
