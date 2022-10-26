@@ -86,4 +86,6 @@ I make friends with many elite guys who are doing state-of-the-art research in m
 
 [Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at Boston University, Network measurement). 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
+
