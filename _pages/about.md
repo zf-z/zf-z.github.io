@@ -60,17 +60,17 @@ News
 
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
-\[November 2019\] GraLSP is accepted at **AAAI 2020** \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]. Congratulations!
+\[June 2018\] Came to HKUST Campus and started my Ph.D journey !
 
-Miscellaneous
+Personal
 ======
-I hold a broad range of interests so as to keep enjoying life. 
+I hold a broad range of interests to make a enjoyable and meaningful life. 
 
-I enjoy sports including jogging and basketball. My favourite team in NBA is San Antonio Spurs and my favourite football club is Liverpool FC. 
+I enjoy outdoor and water sports, including Jogging, Hiking, Fishing, Windsurfing (Level 1 certificate),  Scuba Diving (first scuba certification level). And some other sports, like badminton, table tennis, snooker, etc.
 
-I am a civil aviation enthusiast. I am a member of the ACICFG, a team devoted to making subtitles and captions for documentaries related to civil aviation (such as the **Air Crash Investigation**). Some of our works are published on [bilibili](https://space.bilibili.com/358422). I also write some articles on [zhihu](https://www.zhihu.com/people/mai-kang-ming/activities) related to civil aviation and my research. 
+I am a self-drive tour enthusiast. I have been travelled to more than 20 countries around the world. I also write some articles on [zhihu](https://www.zhihu.com/people/zhengfei-zheng) to answer some interested questions.
 
-I am an alcoholist, I like the following types of alcohol. 
+<!-- I am an alcoholist, I like the following types of alcohol. 
 
 - Beers, including Pale Ale (I like **Ballast Point**, **Brooklyn**, **Dogfish** and **BrewDog**.), Trappist (I like **Rochefort** and **Chimay**.) and Hefeweizen (I think **Franziskaner** is good enough.). 
 
@@ -82,16 +82,16 @@ I am an alcoholist, I like the following types of alcohol.
 
 - Gin. The taste of Gin is a highly personalized matter. I enjoy **The Botanists**. 
 
-An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg).
+An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg). -->
 
-Friends
+Some Friends
 ======
-I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
+<!-- I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
 [Haodong Duan](https://kennymckormick.github.io/) (Ph.D Student at the Chinese University of Hong Kong, Computer Vision). 
 
 [Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at Boston University, Network measurement). 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script> -->
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script> --> -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
