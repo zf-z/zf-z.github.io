@@ -10,6 +10,11 @@ redirect_from:
 
 I am currently a PhD student at the Civil Department of Civil and Environmental Engineering, [HKUST](https://hkust.edu.hk/), Hong Kong, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/). Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree  in Transportation Engineering supervised by Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/). I got my bachelor degree from [Harbin Institute of Technology](http://www.hit.edu.cn/)(Harbin Campus), China in 2013. 
 
+## Contact
+- E-mail: zhengfei.zheng \[at\] connect.ust.hk  
+- Office: Room 3595 (Lift 27-28), Civil Dept, Academic building, HKUST, Kowloon, Hong Kong
+
+
 My primary research interests are in emerging problems related to smart mobility and data-driven transportation research, including: 
 - **Emerging Smart Mobility Service**
     - Ride-sourcing markets
@@ -58,11 +63,6 @@ Some of my elite friends are excellent in different aspects and set good example
 [Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu), Lecturer at University of Edinburgh.
 
 [Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer from Beihang University.
-
-
-**Contact**
-- E-mail: zhengfei.zheng \[at\] connect.ust.hk  
-- Office: Room 3595 (Lift 27-28), Civil Dept, Academic building, HKUST, Kowloon, Hong Kong
 
 <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
