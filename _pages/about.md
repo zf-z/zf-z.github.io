@@ -23,12 +23,12 @@ I am currently a Ph.D. student at the Civil Department, [HKUST](https://hkust.ed
 Prior to joining the HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree supervised by Asst. Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and the first year supervised by Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/) in Transportation Engineering. I got my bachelor's degree from [Harbin Institute of Technology](http://www.hit.edu.cn/), Harbin, China in 2013.  
 
 **Contact**
-E-mail: zhengfei.zheng \[at\] connect.ust.hk
-Office: Room 3595 (Lift 27-28), Civil Dept, Academic building, HKUST, Kowloon, Hong Kong
+- E-mail: zhengfei.zheng \[at\] connect.ust.hk  
+- Office: Room 3595 (Lift 27-28), Civil Dept, Academic building, HKUST, Kowloon, Hong Kong
 
 News
 ======
-\[July 2022\] Invited to serve as Reviewer (Program Committee Member) for **AAAI 2023** and **ICLR 2023**. 
+<!-- \[July 2022\] Invited to serve as Reviewer (Program Committee Member) for **AAAI 2023** and **ICLR 2023**. 
 
 \[July 2022\] Recognized as an **Outstanding Reviewer** (Top 10%) of ICML 2022!
 
@@ -42,7 +42,7 @@ News
 
 \[January 2022\] Invited to serve as a Reviewer for **ICML 2022**. 
 
-\[August 2021\] I passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
+\[August 2021\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
 
 \[July 2021\] Invited to the Program Committee Board (i.e. to serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
 
@@ -52,15 +52,17 @@ News
 
 \[April 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021**. 
 
-\[January 2021\] One co-authored paper is accepted at **TheWebConf 2021** as a long paper. Congratulations to my co-authors!
+\[January 2021\] One co-authored paper is accepted at **TheWebConf 2021** as a long paper. Congratulations to my co-authors! -->
 
-\[December 2020\] One co-authored paper is accepted at **AAAI 2021**. Congratulations to my co-authors!
+\[December 2020\] One co-authored paper is accepted Transportation Research Part B: Methodological !
 
-\[May 2020\] One co-authored paper accepted at **KDD 2020**. Congratulations to my co-authors! 
+\[May 2019\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
 
-\[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
+\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate.. 
 
 \[June 2018\] Came to HKUST Campus and started my Ph.D journey !
+
+\[June 2018\] Won prestigious Hong Kong PhD Fellowship !
 
 Personal
 ======
@@ -84,8 +86,8 @@ I am a self-drive tour enthusiast. I have been travelled to more than 20 countri
 
 An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg). -->
 
-Some Friends
-======
+<!-- Some Friends
+====== -->
 <!-- I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
 [Haodong Duan](https://kennymckormick.github.io/) (Ph.D Student at the Chinese University of Hong Kong, Computer Vision). 
