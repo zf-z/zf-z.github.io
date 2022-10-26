@@ -32,7 +32,7 @@ News
 
 \[Aug 2020\] One co-authored paper is accepted at Transportation Research Part C: Emerging Technologies ! 
 
-\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate,\[[slides](https://zf-z.github.io/files/Zhengfei_PhD_Qualifying%20Exam.pdf)\]! 
+\[June 2020\] Passed my Ph.D. qualifying exam and became a Ph.D. candidate ! \[[slides](https://zf-z.github.io/files/Zhengfei_PhD_Qualifying%20Exam.pdf)\] 
 
 \[June 2018\] Came to HKUST Campus and started my Ph.D journey !
 
@@ -51,17 +51,17 @@ Some Friends
 ======
 Some of my elite friends are excellent in different aspects and set good examples for my life, listed below.
 
+<br>
 [Hongbo Ye](https://hb-ye.github.io/), Research Assistant Professor at Hong Kong PolyU, an interesting guy. 
 
 [Jintao Ke](https://sites.google.com/view/kejintao), Assistant Professor at the University of Hong Kong, a rising star. 
 
-[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin, published several books of speculative fiction
+[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin, published several books of speculative fiction.
 
 [Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu),  A lecturer at the university of Edinburgh.
 
 [Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer from Beihang University.
 
 <br>
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
