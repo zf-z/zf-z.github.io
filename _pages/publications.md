@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find my papers in [my Google Scholar](https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en). <br>
-(<sup>\*</sup> indicates equal contribution. )
+
 
 # Journal Papers
 ## 2021
