@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en). <br>
+You can also find my papers in [my Google Scholar](https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en). <br>
 (<sup>\*</sup> indicates equal contribution. )
 
-# Conference Papers
+# Journal Papers
 ## 2022
 * **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** \[[pdf](https://kl4805.github.io/files/KDD22.pdf)\]\[[code](https://github.com/KL4805/CrossTReS)\]\[[slides](https://kl4805.github.io/files/final_kdd22.pdf)\]<br>
 **Yilun Jin**, Kai Chen, Qiang Yang. <br> In *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2022
@@ -56,9 +56,9 @@ Guojie Song, Qingqing Long, Yi Luo, Yiming Wang, **Yilun Jin**. <br>In *IEEE Tra
 * **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
 Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-IJCAI’19)*.
 
-
-# Book Chapters 
+# Conference Papers
+<!-- # Book Chapters 
 
 * (In Chinese) **Chapter 6: Differential Privacy (差分隐私)** and **Chapter 8: Federated Learning (联邦学习)** \[purchase [link](https://item.jd.com/13604520.html)\] <br>
 In *Privacy-Preserving Computing*, Kai Chen and Qiang Yang, Publishing House of Electronics Industry, China, 2022. 
-
+ -->
