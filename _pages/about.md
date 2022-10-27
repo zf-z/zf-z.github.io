@@ -64,7 +64,7 @@ Some of my elite friends are excellent in different aspects and set good example
 
 [Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu), Lecturer at University of Edinburgh.
 
-[Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer from Beihang University.
+[Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer graduated from Beihang University.
 
 [Sidun Fang](http://www.cee.cqu.edu.cn/info/3460/11938.htm), Distinguished Young Scholars (Overseas) of NSFC, an erudite.
 
