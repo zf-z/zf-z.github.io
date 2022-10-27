@@ -1,4 +1,12 @@
-
+---
+title: 'Study on optimal control'
+date: 2022-10-27
+permalink: /posts/2022/10/optimal-control/
+tags:
+  - study
+  - optimization
+  - control
+---
 Some excellent materials for optimal control study
 
 - 浙江大学宋春跃老师课件：[最优化与最优控制](https://person.zju.edu.cn/ChunyueSong#702200)
