@@ -66,6 +66,8 @@ Some of my elite friends are excellent in different aspects and set good example
 
 [Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer from Beihang University.
 
+[Sidun Fang](http://www.cee.cqu.edu.cn/info/3460/11938.htm), Distinguished Young Scholars (Overseas) of NSFC, an erudite.
+
 <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
