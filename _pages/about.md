@@ -60,7 +60,7 @@ Some of my elite friends are excellent in different aspects and set good example
 
 [Jintao Ke](https://sites.google.com/view/kejintao), Assistant Professor at the University of Hong Kong, a rising star. 
 
-[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin University, published several speculative fiction books.
+[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin Univ., published several books of speculative fiction.
 
 [Nan Yu](https://www.eng.ed.ac.uk/about/people/dr-nan-yu), Lecturer at University of Edinburgh.
 
@@ -69,5 +69,5 @@ Some of my elite friends are excellent in different aspects and set good example
 [Sidun Fang](http://www.cee.cqu.edu.cn/info/3460/11938.htm), Distinguished Young Scholars (Overseas) of NSFC, an erudite.
 
 <br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=750&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
