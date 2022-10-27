@@ -1,6 +1,6 @@
 ---
 title: 'Study on optimal control'
-date: 2022-10-27
+date: 2022-10-21
 permalink: /posts/2022/10/optimal-control/
 tags:
   - study
