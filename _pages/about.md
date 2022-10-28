@@ -13,7 +13,8 @@ I am currently a PhD student at the Department of Civil and Environmental Engine
 
 **Contact**
 - E-mail: zhengfei.zheng \[at\] connect.ust.hk  
-- Office: Room 3595 (Lift 27-28), Civil Dept, Academic building, HKUST, Kowloon, Hong Kong
+- Address: Room 3595 (Lift 27-28), Department of Civil & Environmental Engineering,
+           Academic Building, HKUST, Clear Water Bay Rd., Kowloon, Hong Kong
 
 Research Interest
 ======
