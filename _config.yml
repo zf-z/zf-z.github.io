@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhengfei ZHENG"
 title_separator          : "-"
 name                     : &name "Zhengfei ZHENG"
-description              : &description "Ph.D. Student in CSE at the Hong Kong University of Science and Technology"
+description              : &description "Ph.D. Student in Civil Dept. at the Hong Kong University of Science and Technology"
 url                      : https://zf-z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zf-z/zf-z.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhengfei ZHENG"
   avatar           : "zhengfeizheng.jpg"
-  bio              : "PhD student at Civil Engineering, HKUST."
+  bio              : "PhD student in Civil Engineering, HKUST."
   location         : "Hong Kong SAR, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en"
