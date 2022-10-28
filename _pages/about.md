@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-I am currently a PhD student at the Department of Civil and Environmental Engineering, [HKUST](https://hkust.edu.hk/), Hong Kong, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/). Prior to joining HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree  in Transportation Engineering supervised by Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/). I got my bachelor degree from [Harbin Institute of Technology](http://www.hit.edu.cn/) (Harbin Campus), China in 2013. 
+I am currently a PhD student at the Department of Civil and Environmental Engineering, [HKUST](https://hkust.edu.hk/), Hong Kong, advised by [Prof. Hai Yang](http://cehyang.people.ust.hk/). Prior to joining HKUST, I spent 3 wonderful years at [Technion](https://www.technion.ac.il/), Israel, obtaining my master degree  in Transportation Engineering supervised by Prof. [Jack Haddad](https://haddad.net.technion.ac.il/) and Prof. [Shlomo Bekhor](https://sbekhor.net.technion.ac.il/). I got my bachelor degree from [Harbin Institute of Technology](http://www.hit.edu.cn/) (Harbin Campus), China in 2013.  My curriculum vitae [here](https://zf-z.github.io/files/CV-Zhengfei-2022-Oct.pdf)
 
 **Contact**
 - E-mail: zhengfei.zheng \[at\] connect.ust.hk  
