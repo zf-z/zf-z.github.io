@@ -16,7 +16,7 @@ I am currently a PhD student at the Department of Civil and Environmental Engine
 - Address: Room 3595 (Lift 27-28), Department of Civil & Environmental Engineering,
            Academic Building, HKUST, Clear Water Bay Rd., Kowloon, Hong Kong
 
-Research Interest
+Research Interests
 ======
 My primary research interests are in emerging problems related to smart mobility and data-driven transportation research, including: 
 - **Emerging Smart Mobility Service**
