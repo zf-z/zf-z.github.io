@@ -30,7 +30,7 @@ Peer friendships are precious treasures in our life. Some of my elite friends ar
 
 [Sidun Fang](http://www.cee.cqu.edu.cn/info/3460/11938.htm), Distinguished Young Scholars (Overseas) of NSFC, an erudite.
 
-[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin Univ., published several books of speculative fiction.
+[Yongtao Sun](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1859), Associate Professor at Tianjin University, published several books of speculative fiction.
 
 [Yuan Huang](https://huangyuan911.tuchong.com/work/), An excellent photographer graduated from Beihang University.
 
