@@ -32,5 +32,5 @@ My primary research interests are in emerging problems related to smart mobility
 
  
 <br>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=750&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=0e5587&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=750&t=n&d=mpTi8xj2lCObwxC4c87vWJy2QI8HwFljizTcfzRgyl4&co=d8e4ed&cmo=cad8d4&cmn=f9841c&ct=ffffff'></script>
 
