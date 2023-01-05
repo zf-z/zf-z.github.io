@@ -12,11 +12,11 @@ tags:
 
 首先要明确一点，对git的操作是围绕3个大的步骤来展开的
 
-- 1. 从git取数据（git clone）
+- 1.从git取数据（git clone）
 
-- 2. 改动代码
+- 2.改动代码
 
-- 3. 将改动传回git（git push）
+- 3.将改动传回git（git push）
 
 这3个步骤又涉及到两个repository，一个是remote repository，再远程服务器上，一个是local repository，再自己工作区上。
 
