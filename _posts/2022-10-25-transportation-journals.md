@@ -53,6 +53,8 @@ The recent ranking of transportation journals by its IF in TRANSPORTATION SCIENC
 | 39  | ITE Journal - Institute of Transportation Engineers                                               | 472             | 0.716    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 | 40  | International Journal of Heavy Vehicle Systems                                                  | 250             | 0.568    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 
+
+
 In the Category of TRANSPORTATION.
 
 | NO. | Journal name                                                                | Total Citations | 2021 JIF | JIF Quartile | Category              |
@@ -95,5 +97,40 @@ In the Category of TRANSPORTATION.
 | 36  | Journal of Transport Economics And Policy                                   | 1,213           | 0.613    | Q4           | TRANSPORTATION - SSCI |
 | 37  | International Journal of Transport Economics                                | 245             | 0.262    | Q4           | TRANSPORTATION - SSCI |
 
+
+In the Category of OPERATIONS RESEARCH & MANAGEMENT SCIENCE.
+
+| No. | Journal name                                                       | Total Citations | 2021 JIF | JIF Quartile | Category                                        |
+| --- | ------------------------------------------------------------------ | --------------- | -------- | ------------ | ----------------------------------------------- |
+| 1   | Technovation                                                       | 9,106           | 11.373   | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 2   | International Journal of Production Economics                      | 36,540          | 11.251   | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 3   | Transportation Research Part E-Logistics and Transportation Review | 14,709          | 10.047   | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 4   | Journal of Manufacturing Systems                                   | 8,146           | 9.498    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 5   | International Journal of Systems Science-Operations & Logistics    | 956             | 9.040    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 6   | International Journal of Production Research                       | 34,466          | 9.018    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 7   | Omega-International Journal of Management Science                  | 14,575          | 8.673    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 8   | Expert Systems with Applications                                   | 64,974          | 8.665    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 9   | Mathematical Programming Computation                               | 1,294           | 8.059    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 10  | Transportation Research Part B-Methodological                      | 18,249          | 7.632    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 11  | Reliability Engineering & System Safety                            | 26,227          | 7.247    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 12  | M&Som-Manufacturing & Service Operations Management                | 6,060           | 7.103    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 13  | Decision Support Systems                                           | 15,272          | 6.969    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 14  | Production Planning & Control                                      | 7,048           | 6.846    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 15  | Journal of Operations Management                                   | 13,465          | 6.720    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 16  | Safety Science                                                     | 21,659          | 6.392    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 17  | European Journal of Operational Research                           | 71,664          | 6.363    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 18  | Management Science                                                 | 50,368          | 6.172    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 19  | Fuzzy Optimization and Decision Making                             | 1,393           | 5.274    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 20  | Computers & Operations Research                                    | 18,486          | 5.159    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 21  | Transportation Science                                             | 8,090           | 4.898    | Q1           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 22  | Annals of Operations Research                                      | 15,306          | 4.820    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 23  | Ieee Systems Journal                                               | 11,698          | 4.802    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 24  | Socio-Economic Planning Sciences                                   | 3,359           | 4.641    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 25  | Production and Operations Management                               | 10,966          | 4.638    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 26  | International Journal of Computer Integrated Manufacturing         | 3,069           | 4.420    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 27  | Operations Research                                                | 18,193          | 3.924    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 28  | International Transactions in Operational Research                 | 3,547           | 3.610    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 29  | Memetic Computing                                                  | 814             | 3.577    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
+| 30  | International Journal of Information Technology & Decision Making  | 1,705           | 3.508    | Q2           | OPERATIONS RESEARCH & MANAGEMENT SCIENCE - SCIE |
 
 Source: https://jcr.clarivate.com/jcr/browse-journals
