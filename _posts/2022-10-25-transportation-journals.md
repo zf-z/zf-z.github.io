@@ -55,7 +55,7 @@ The recent ranking of transportation journals by its IF in TRANSPORTATION SCIENC
 | 40  | International Journal of Heavy Vehicle Systems                                                  | 250             | 0.568    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 
        
-       
+       <br />
 
 In the Category of TRANSPORTATION.
 
@@ -99,7 +99,9 @@ In the Category of TRANSPORTATION.
 | 36  | Journal of Transport Economics And Policy                                   | 1,213           | 0.613    | Q4           | TRANSPORTATION - SSCI |
 | 37  | International Journal of Transport Economics                                | 245             | 0.262    | Q4           | TRANSPORTATION - SSCI |
      
-        
+       
+       <br />  
+       
           
           
 
