@@ -53,4 +53,47 @@ The recent ranking of transportation journals by its IF in TRANSPORTATION SCIENC
 | 39  | ITE Journal - Institute of Transportation Engineers                                               | 472             | 0.716    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 | 40  | International Journal of Heavy Vehicle Systems                                                  | 250             | 0.568    | Q4           | TRANSPORTATION SCIENCE & TECHNOLOGY - SCIE |
 
+In the Category of TRANSPORTATION.
+
+| NO. | Journal name                                                                | Total Citations | 2021 JIF | JIF Quartile | Category              |
+| --- | --------------------------------------------------------------------------- | --------------- | -------- | ------------ | --------------------- |
+| 1   | Journal of Public Transportation                                            | 1,056           | 37.667   | Q1           | TRANSPORTATION - SSCI |
+| 2   | Analytic Methods in Accident Research                                       | 2,203           | 14.556   | Q1           | TRANSPORTATION - SSCI |
+| 3   | Transport Reviews                                                           | 5,341           | 10.185   | Q1           | TRANSPORTATION - SSCI |
+| 4   | Transportation Research Part E-Logistics and Transportation Review          | 14,709          | 10.047   | Q1           | TRANSPORTATION - SSCI |
+| 5   | Transportation Research Part B-Methodological                               | 18,249          | 7.632    | Q1           | TRANSPORTATION - SSCI |
+| 6   | Transportation Research Part D-Transport and Environment                    | 16,701          | 7.041    | Q1           | TRANSPORTATION - SSCI |
+| 7   | Transportation Research Part A-Policy and Practice                          | 20,124          | 6.615    | Q1           | TRANSPORTATION - SSCI |
+| 8   | Accident Analysis and Prevention                                            | 30,168          | 6.376    | Q1           | TRANSPORTATION - SSCI |
+| 9   | Transport Policy                                                            | 10,813          | 6.173    | Q1           | TRANSPORTATION - SSCI |
+| 10  | Journal of Transport Geography                                              | 13,828          | 5.899    | Q2           | TRANSPORTATION - SSCI |
+| 11  | Travel Behaviour and Society                                                | 1,981           | 5.850    | Q2           | TRANSPORTATION - SSCI |
+| 12  | Journal of Air Transport Management                                         | 6,036           | 5.428    | Q2           | TRANSPORTATION - SSCI |
+| 13  | Transportation Science                                                      | 8,090           | 4.898    | Q2           | TRANSPORTATION - SSCI |
+| 14  | Transportation                                                              | 6,757           | 4.814    | Q2           | TRANSPORTATION - SSCI |
+| 15  | Transportation Research Part F-Traffic Psychology and Behaviour             | 9,876           | 4.349    | Q2           | TRANSPORTATION - SSCI |
+| 16  | Research in Transportation Business and Management                          | 1,949           | 4.286    | Q2           | TRANSPORTATION - SSCI |
+| 17  | Journal of Safety Research                                                  | 5,737           | 4.264    | Q2           | TRANSPORTATION - SSCI |
+| 18  | International Journal of Sustainable Transportation                         | 2,618           | 3.963    | Q2           | TRANSPORTATION - SSCI |
+| 19  | Maritime Economics & Logistics                                              | 1,192           | 3.841    | Q3           | TRANSPORTATION - SSCI |
+| 20  | Journal of Intelligent Transportation Systems                               | 1,830           | 3.839    | Q3           | TRANSPORTATION - SSCI |
+| 21  | European Transport Research Review                                          | 1,540           | 3.817    | Q3           | TRANSPORTATION - SSCI |
+| 22  | Journal of Transport & Health                                               | 3,029           | 3.613    | Q3           | TRANSPORTATION - SSCI |
+| 23  | Transportmetrica B-Transport Dynamics                                       | 704             | 3.410    | Q3           | TRANSPORTATION - SSCI |
+| 24  | Transportmetrica A-Transport Science                                        | 1,533           | 3.277    | Q3           | TRANSPORTATION - SSCI |
+| 25  | Maritime Policy & Management                                                | 2,745           | 3.167    | Q3           | TRANSPORTATION - SSCI |
+| 26  | Research in Transportation Economics                                        | 2,617           | 2.904    | Q3           | TRANSPORTATION - SSCI |
+| 27  | Transportation Letters-The International Journal of Transportation Research | 1,225           | 2.844    | Q3           | TRANSPORTATION - SSCI |
+| 28  | Economics of Transportation                                                 | 400             | 2.829    | Q4           | TRANSPORTATION - SSCI |
+| 29  | Journal of Transportation Safety & Security                                 | 1,005           | 2.825    | Q4           | TRANSPORTATION - SSCI |
+| 30  | Journal of Transport And Land Use                                           | 1,369           | 2.739    | Q4           | TRANSPORTATION - SSCI |
+| 31  | Mobilities                                                                  | 2,157           | 2.574    | Q4           | TRANSPORTATION - SSCI |
+| 32  | Traffic Injury Prevention                                                   | 3,940           | 2.183    | Q4           | TRANSPORTATION - SSCI |
+| 33  | International Journal of Shipping And Transport Logistics                   | 415             | 1.264    | Q4           | TRANSPORTATION - SSCI |
+| 34  | European Journal of Transport And Infrastructure Research                   | 807             | 1.244    | Q4           | TRANSPORTATION - SSCI |
+| 35  | Transportation Journal                                                      | 637             | 1.241    | Q4           | TRANSPORTATION - SSCI |
+| 36  | Journal of Transport Economics And Policy                                   | 1,213           | 0.613    | Q4           | TRANSPORTATION - SSCI |
+| 37  | International Journal of Transport Economics                                | 245             | 0.262    | Q4           | TRANSPORTATION - SSCI |
+
+
 Source: https://jcr.clarivate.com/jcr/browse-journals
