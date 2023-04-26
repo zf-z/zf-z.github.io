@@ -44,11 +44,12 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 * Naumov, S., & Keith, D. (2022). Optimizing the economic and environmental benefits of ride-hailing and pooling. Production and Operations Management, 32, 904– 929. <https://doi.org/10.1111/poms.13905>
 * Shi, L., Sethi, S. P., & Çakanyıldırım, M. (2022). Promoting electric vehicles: Reducing charging inconvenience and price via station and consumer subsidies. Production and Operations Management, 31, 4333– 4350. <https://doi.org/10.1111/poms.13871>
 * He, L., Liu, S., & Shen, Z.-J. M. (2022). Smart urban transport and logistics: A business analytics perspective. Production and Operations Management, 31, 3771– 3787. <https://doi.org/10.1111/poms.13775>
-* Lu, L. et al. Service Operations for Mixed Autonomous Paradigm: Lane Design and Subsidy. Production and Operations Management (2022), <https://doi.org/10.1111/poms.13633>
-* Pan, Y. and Qiu, L. (2022), How Ride-Sharing Is Shaping Public Transit System: A Counterfactual Estimator Approach. Prod Oper Manag, 31: 906-927. <https://doi.org/10.1111/poms.13582>
-* Li, Z., Liang, C., Hong, Y. and Zhang, Z. (2022), How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness. Prod Oper Manag, 31: 239-258. <https://doi.org/10.1111/poms.13530>
+
 
 ## 2021
+* Lu, L. et al.  (2021). Service Operations for Mixed Autonomous Paradigm: Lane Design and Subsidy. Production and Operations Management, <https://doi.org/10.1111/poms.13633>
+* Pan, Y. and Qiu, L. (2021), How Ride-Sharing Is Shaping Public Transit System: A Counterfactual Estimator Approach. Prod Oper Manag, 31: 906-927. <https://doi.org/10.1111/poms.13582>
+* Li, Z., Liang, C., Hong, Y. and Zhang, Z. (2021), How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness. Prod Oper Manag, 31: 239-258. <https://doi.org/10.1111/poms.13530>
 * Yang, J., He, F., Lin, X. and Shen, M.Z.-J. (2021), Mechanism Design for Stochastic Dynamic Parking Resource Allocation. Prod Oper Manag, 30: 3615-3634. <https://doi.org/10.1111/poms.13453>
 * Tang, Y., Guo, P., Tang, C.S. and Wang, Y. (2021), Gender-Related Operational Issues Arising from On-Demand Ride-Hailing Platforms: Safety Concerns and System Configuration. Prod Oper Manag, 30: 3481-3496. <https://doi.org/10.1111/poms.13444>
 * Chakravarty, A.K. (2021), Blending Capacity on a Rideshare Platform: Independent and Dedicated Drivers. Prod Oper Manag, 30: 2522-2546. <https://doi.org/10.1111/poms.13378>
