@@ -66,57 +66,57 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 # Manufacturing & Service Operations Management
 
 ## 2023
-* Zhu, F., Liu, S., Wang, R., & Wang, Z. (2023). Assign-to-Seat: Dynamic Capacity Control for Selling High-Speed Train Tickets. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1188
-* Jin, Z., Wang, Y., Lim, Y. F., Pan, K., & Shen, Z. M. (2023). Vehicle Rebalancing in a Shared Micromobility System with Rider Crowdsourcing. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2023.1199
+* Zhu, F., Liu, S., Wang, R., & Wang, Z. (2023). Assign-to-Seat: Dynamic Capacity Control for Selling High-Speed Train Tickets. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2023.1188>
+* Jin, Z., Wang, Y., Lim, Y. F., Pan, K., & Shen, Z. M. (2023). Vehicle Rebalancing in a Shared Micromobility System with Rider Crowdsourcing. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2023.1199>
 
 ## 2022
-* Gong, J., Greenwood, B. N., & Song, Y. (2022). An Empirical Investigation of Ridesharing and New Vehicle Purchase. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2022.1183
-* Agarwal, S., Mani, D., & Telang, R. (2022). The Impact of Ride-Hailing Services on Congestion: Evidence from Indian Cities. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2022.1158
-* Markakis, M. G., Talluri, K. T., & Tikhonenko, D. (2022). Sequential Bidding for Merging in Algorithmic Traffic. Manufacturing & Service Operations Management, 25(1), 168–181. https://doi.org/10.1287/msom.2022.1144
-* Kai, W., Jacquillat, A., & Vaze, V. (2022). Vertiport Planning for Urban Aerial Mobility: An Adaptive Discretization Approach. Manufacturing & Service Operations Management, 24(6), 3215–3235. https://doi.org/10.1287/msom.2022.1148
-* Mao, W., Ming, L., Rong, Y., Tang, C. S., & Zheng, H. (2022). On-Demand Meal Delivery Platforms: Operational Level Data and Research Opportunities. Manufacturing & Service Operations Management, 24(5), 2535–2542. https://doi.org/10.1287/msom.2022.1112
-* Boutilier, J. J., & Chan, T. M. (2022). Drone Network Design for Cardiac Arrest Response. Manufacturing & Service Operations Management, 24(5), 2407–2424. https://doi.org/10.1287/msom.2022.1092
+* Gong, J., Greenwood, B. N., & Song, Y. (2022). An Empirical Investigation of Ridesharing and New Vehicle Purchase. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2022.1183>
+* Agarwal, S., Mani, D., & Telang, R. (2022). The Impact of Ride-Hailing Services on Congestion: Evidence from Indian Cities. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2022.1158>
+* Markakis, M. G., Talluri, K. T., & Tikhonenko, D. (2022). Sequential Bidding for Merging in Algorithmic Traffic. Manufacturing & Service Operations Management, 25(1), 168–181. <https://doi.org/10.1287/msom.2022.1144>
+* Kai, W., Jacquillat, A., & Vaze, V. (2022). Vertiport Planning for Urban Aerial Mobility: An Adaptive Discretization Approach. Manufacturing & Service Operations Management, 24(6), 3215–3235. <https://doi.org/10.1287/msom.2022.1148>
+* Mao, W., Ming, L., Rong, Y., Tang, C. S., & Zheng, H. (2022). On-Demand Meal Delivery Platforms: Operational Level Data and Research Opportunities. Manufacturing & Service Operations Management, 24(5), 2535–2542. <https://doi.org/10.1287/msom.2022.1112>
+* Boutilier, J. J., & Chan, T. M. (2022). Drone Network Design for Cardiac Arrest Response. Manufacturing & Service Operations Management, 24(5), 2407–2424. <https://doi.org/10.1287/msom.2022.1092>
 
 ## 2021
-* Liu, W., & Sun, X. (2021). Energy-Aware and Delay-Sensitive Management of a Drone Delivery System. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2021.1056
-* Siddiq, A., & Taylor, T. A. (2021). Ride-Hailing Platforms: Competition and Autonomous Vehicles. Manufacturing & Service Operations Management, 24(3), 1511–1528. https://doi.org/10.1287/msom.2021.1013
-* Lyu, G., & Teo, C. (2021). Last Mile Innovation: The Case of the Locker Alliance Network. Manufacturing & Service Operations Management, 24(5), 2425–2443. https://doi.org/10.1287/msom.2021.1000
-* Guo, X., Grushka-Cockayne, Y., & De Reyck, B. (2021). Forecasting Airport Transfer Passenger Flow Using Real-Time Data and Machine Learning. Manufacturing & Service Operations Management, 24(6), 3193–3214. https://doi.org/10.1287/msom.2021.0975
-* Cohen, M. C., Fiszer, M., Ratzon, A., & Sasson, R. (2021). Incentivizing Commuters to Carpool: A Large Field Experiment with Waze. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2021.1033
-* Qi, W., Sha, M., & Li, S. (2021). When Shared Autonomous Electric Vehicles Meet Microgrids: Citywide Energy-Mobility Orchestration. Manufacturing & Service Operations Management, 24(5), 2389–2406. https://doi.org/10.1287/msom.2021.1050
-* Brandt, T., Dlugosch, O., Abdelwahed, A., Van Den Berg, P. L., & Neumann, D. (2021). Prescriptive Analytics in Urban Policing Operations. Manufacturing & Service Operations Management, 24(5), 2463–2480. https://doi.org/10.1287/msom.2021.1022
-* Wu, O. Q., Yucel, S., & Zhou, Y. H. (2021). Smart Charging of Electric Vehicles: An Innovative Business Model for Utility Firms. Manufacturing & Service Operations Management, 24(5), 2481–2499. https://doi.org/10.1287/msom.2021.1019
-* Liu, S., Shen, Z. M., & Ji, X. (2021). Urban Bike Lane Planning with Bike Trajectories: Models, Algorithms, and a Real-World Case Study. Manufacturing & Service Operations Management, 24(5), 2500–2515. https://doi.org/10.1287/msom.2021.1023
-* Cui, S., Li, K., Yang, L., & Wang, J. (2021). Slugging: Casual Carpooling for Urban Transit. Manufacturing & Service Operations Management, 24(5), 2516–2534. https://doi.org/10.1287/msom.2021.0988
-* Zhang, W., & Dou, Y. (2021). Coping with Spatial Mismatch: Subsidy Design for Electric Vehicle and Charging Markets. Manufacturing & Service Operations Management, 24(3), 1595–1610. https://doi.org/10.1287/msom.2021.1017
-* Fatehi, S., & Wagner, M. (2021). Crowdsourcing Last-Mile Deliveries. Manufacturing & Service Operations Management, 24(2), 791–809. https://doi.org/10.1287/msom.2021.0973
-* Siddiq, A., Tang, C. S., & Zhang, J. (2021). Partnerships in Urban Mobility: Incentive Mechanisms for Improving Public Transit Adoption. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2021.0987
-* Chen, X., Li, Z., Ming, L., & Zhu, W. (2021). The Incentive Game Under Target Effects in Ridesharing: A Structural Econometric Analysis. Manufacturing & Service Operations Management, 24(2), 972–992. https://doi.org/10.1287/msom.2021.1002
+* Liu, W., & Sun, X. (2021). Energy-Aware and Delay-Sensitive Management of a Drone Delivery System. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2021.1056>
+* Siddiq, A., & Taylor, T. A. (2021). Ride-Hailing Platforms: Competition and Autonomous Vehicles. Manufacturing & Service Operations Management, 24(3), 1511–1528. <https://doi.org/10.1287/msom.2021.1013>
+* Lyu, G., & Teo, C. (2021). Last Mile Innovation: The Case of the Locker Alliance Network. Manufacturing & Service Operations Management, 24(5), 2425–2443. <https://doi.org/10.1287/msom.2021.1000>
+* Guo, X., Grushka-Cockayne, Y., & De Reyck, B. (2021). Forecasting Airport Transfer Passenger Flow Using Real-Time Data and Machine Learning. Manufacturing & Service Operations Management, 24(6), 3193–3214. <https://doi.org/10.1287/msom.2021.0975>
+* Cohen, M. C., Fiszer, M., Ratzon, A., & Sasson, R. (2021). Incentivizing Commuters to Carpool: A Large Field Experiment with Waze. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2021.1033>
+* Qi, W., Sha, M., & Li, S. (2021). When Shared Autonomous Electric Vehicles Meet Microgrids: Citywide Energy-Mobility Orchestration. Manufacturing & Service Operations Management, 24(5), 2389–2406. <https://doi.org/10.1287/msom.2021.1050>
+* Brandt, T., Dlugosch, O., Abdelwahed, A., Van Den Berg, P. L., & Neumann, D. (2021). Prescriptive Analytics in Urban Policing Operations. Manufacturing & Service Operations Management, 24(5), 2463–2480. <https://doi.org/10.1287/msom.2021.1022>
+* Wu, O. Q., Yucel, S., & Zhou, Y. H. (2021). Smart Charging of Electric Vehicles: An Innovative Business Model for Utility Firms. Manufacturing & Service Operations Management, 24(5), 2481–2499. <https://doi.org/10.1287/msom.2021.1019>
+* Liu, S., Shen, Z. M., & Ji, X. (2021). Urban Bike Lane Planning with Bike Trajectories: Models, Algorithms, and a Real-World Case Study. Manufacturing & Service Operations Management, 24(5), 2500–2515. <https://doi.org/10.1287/msom.2021.1023>
+* Cui, S., Li, K., Yang, L., & Wang, J. (2021). Slugging: Casual Carpooling for Urban Transit. Manufacturing & Service Operations Management, 24(5), 2516–2534. <https://doi.org/10.1287/msom.2021.0988>
+* Zhang, W., & Dou, Y. (2021). Coping with Spatial Mismatch: Subsidy Design for Electric Vehicle and Charging Markets. Manufacturing & Service Operations Management, 24(3), 1595–1610. <https://doi.org/10.1287/msom.2021.1017>
+* Fatehi, S., & Wagner, M. (2021). Crowdsourcing Last-Mile Deliveries. Manufacturing & Service Operations Management, 24(2), 791–809. <https://doi.org/10.1287/msom.2021.0973>
+* Siddiq, A., Tang, C. S., & Zhang, J. (2021). Partnerships in Urban Mobility: Incentive Mechanisms for Improving Public Transit Adoption. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2021.0987>
+* Chen, X., Li, Z., Ming, L., & Zhu, W. (2021). The Incentive Game Under Target Effects in Ridesharing: A Structural Econometric Analysis. Manufacturing & Service Operations Management, 24(2), 972–992. <https://doi.org/10.1287/msom.2021.1002>
 
 ## 2020
-* Hu, B., Hu, M., & Du, M. (2020). Surge Pricing and Two-Sided Temporal Responses in Ride Hailing. Manufacturing & Service Operations Management, 24(1), 91–109. https://doi.org/10.1287/msom.2020.0960
-* Baron, O., Berman, O., & Nourinejad, M. (2020). Introducing Autonomous Vehicles: Adoption Patterns and Impacts on Social Welfare. Manufacturing & Service Operations Management, 24(1), 352–369. https://doi.org/10.1287/msom.2020.0955
-* Bernstein, F., Willems, S. P., & Keskin, N. B. (2020). Competition Between Two-Sided Platforms Under Demand and Supply Congestion Effects. Manufacturing & Service Operations Management, 23(5), 1043–1061. https://doi.org/10.1287/msom.2020.0866
-* Feng, G., Kong, G., & Wang, Z. (2020). We Are on the Way: Analysis of On-Demand Ride-Hailing Systems. Manufacturing & Service Operations Management, 23(5), 1237–1256. https://doi.org/10.1287/msom.2020.0880
+* Hu, B., Hu, M., & Du, M. (2020). Surge Pricing and Two-Sided Temporal Responses in Ride Hailing. Manufacturing & Service Operations Management, 24(1), 91–109. <https://doi.org/10.1287/msom.2020.0960>
+* Baron, O., Berman, O., & Nourinejad, M. (2020). Introducing Autonomous Vehicles: Adoption Patterns and Impacts on Social Welfare. Manufacturing & Service Operations Management, 24(1), 352–369. <https://doi.org/10.1287/msom.2020.0955>
+* Bernstein, F., Willems, S. P., & Keskin, N. B. (2020). Competition Between Two-Sided Platforms Under Demand and Supply Congestion Effects. Manufacturing & Service Operations Management, 23(5), 1043–1061. <https://doi.org/10.1287/msom.2020.0866>
+* Feng, G., Kong, G., & Wang, Z. (2020). We Are on the Way: Analysis of On-Demand Ride-Hailing Systems. Manufacturing & Service Operations Management, 23(5), 1237–1256. <https://doi.org/10.1287/msom.2020.0880>
 
 ## 2019
-* He, L., Ma, G., Qi, W., & Wang, X. (2019). Charging an Electric Vehicle-Sharing Fleet. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2019.0851
-* Zhang, Y., Lu, M., & Shen, S. (2019). On the Values of Vehicle-to-Grid Electricity Selling in Electric Vehicle Sharing. Manufacturing & Service Operations Management. https://doi.org/10.1287/msom.2019.0855
+* He, L., Ma, G., Qi, W., & Wang, X. (2019). Charging an Electric Vehicle-Sharing Fleet. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2019.0851>
+* Zhang, Y., Lu, M., & Shen, S. (2019). On the Values of Vehicle-to-Grid Electricity Selling in Electric Vehicle Sharing. Manufacturing & Service Operations Management. <https://doi.org/10.1287/msom.2019.0855>
 
 ## 2018
-* He, L., Hu, Z., & Zhang, M. (2018). Robust Repositioning for Vehicle Sharing. Manufacturing & Service Operations Management, 22(2), 241–256. https://doi.org/10.1287/msom.2018.0734
+* He, L., Hu, Z., & Zhang, M. (2018). Robust Repositioning for Vehicle Sharing. Manufacturing & Service Operations Management, 22(2), 241–256. <https://doi.org/10.1287/msom.2018.0734>
 
 ## 2017
-* Qi, W., Li, L., Liu, S., & Shen, Z. M. (2017). Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions, and Environmental Impact. Manufacturing & Service Operations Management, 20(4), 737–751. https://doi.org/10.1287/msom.2017.0683
-* Nasrollahzadeh, A. A., Khademi, A., & Mayorga, M. E. (2017). Real-Time Ambulance Dispatching and Relocation. Manufacturing & Service Operations Management, 20(3), 467–480. https://doi.org/10.1287/msom.2017.0649
+* Qi, W., Li, L., Liu, S., & Shen, Z. M. (2017). Shared Mobility for Last-Mile Delivery: Design, Operational Prescriptions, and Environmental Impact. Manufacturing & Service Operations Management, 20(4), 737–751. <https://doi.org/10.1287/msom.2017.0683>
+* Nasrollahzadeh, A. A., Khademi, A., & Mayorga, M. E. (2017). Real-Time Ambulance Dispatching and Relocation. Manufacturing & Service Operations Management, 20(3), 467–480. <https://doi.org/10.1287/msom.2017.0649>
 
 ## 2016
-* He, L., Mak, H., Rong, Y., & Shen, Z. M. (2016). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. https://doi.org/10.1287/msom.2016.0611
+* He, L., Mak, H., Rong, Y., & Shen, Z. M. (2016). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. <https://doi.org/10.1287/msom.2016.0611>
 
 ==========
 # Operations Research
 ## 2023
-* Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
+* Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. <https://doi.org/10.1287/opre.2023.2446>
 
 ## 2022
-* Chen, Q., Lei, Y., & Jasin, S. (2022). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. https://doi.org/10.1287/opre.2022.2425
+* Chen, Q., Lei, Y., & Jasin, S. (2022). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. <https://doi.org/10.1287/opre.2022.2425>
