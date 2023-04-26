@@ -21,7 +21,7 @@ Helpful materials for study on conve optimization and algorithms. Thanks to Prof
 - [最优化：建模、算法与理论/最优化计算方法](https://bicmr.pku.edu.cn/~wenzw/optbook.html)
 
 
-Other resources about optimization I appreciate a lot,  
+Other resources about optimization I appreciate a lot, from which I gained sound knowledge about optimization 
 
 - Prof. [Bingsheng HE](http://maths.nju.edu.cn/~hebma/) from Nanjing University.
 - Prof. [Stephen P. Boyd](https://web.stanford.edu/~boyd/teaching.html) from Stanford University
