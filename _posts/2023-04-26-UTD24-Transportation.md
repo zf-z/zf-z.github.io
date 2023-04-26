@@ -37,10 +37,11 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 # Production and Operations Management
 
 ## 2023 
-* Naumov, S., & Keith, D. (2023). Optimizing the economic and environmental benefits of ride-hailing and pooling. Production and Operations Management, 32, 904– 929. <https://doi.org/10.1111/poms.13905>
+
 * Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1– 18. <https://doi.org/10.1111/poms.13965>
 
 ## 2022
+* Naumov, S., & Keith, D. (2022). Optimizing the economic and environmental benefits of ride-hailing and pooling. Production and Operations Management, 32, 904– 929. <https://doi.org/10.1111/poms.13905>
 * Shi, L., Sethi, S. P., & Çakanyıldırım, M. (2022). Promoting electric vehicles: Reducing charging inconvenience and price via station and consumer subsidies. Production and Operations Management, 31, 4333– 4350. <https://doi.org/10.1111/poms.13871>
 * He, L., Liu, S., & Shen, Z.-J. M. (2022). Smart urban transport and logistics: A business analytics perspective. Production and Operations Management, 31, 3771– 3787. <https://doi.org/10.1111/poms.13775>
 * Lu, L. et al. Service Operations for Mixed Autonomous Paradigm: Lane Design and Subsidy. Production and Operations Management (2022), <https://doi.org/10.1111/poms.13633>
