@@ -39,6 +39,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 ## 2023 
 
 * Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1– 18. <https://doi.org/10.1111/poms.13965>
+* Sun L, Hua G, Teunter R H, et al.(2023). The effects of tokenization on ride‐hailing blockchain platforms. Production and Operations Management. <https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14007>
 
 ## 2022
 * Naumov, S., & Keith, D. (2022). Optimizing the economic and environmental benefits of ride-hailing and pooling. Production and Operations Management, 32, 904– 929. <https://doi.org/10.1111/poms.13905>
