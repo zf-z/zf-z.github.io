@@ -56,7 +56,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 * Abouee-Mehrizi, H., Baron, O., Berman, O. and Chen, D. (2021), Adoption of Electric Vehicles in Car Sharing Market. Prod Oper Manag, 30: 190-209. <https://doi.org/10.1111/poms.13262>
 
 ## 2020
-* Valogianni, K., et al. (2020). Sustainable Electric Vehicle Charging using Adaptive Pricing. Production and Operations Management, https://doi.org/10.1111/poms.13179
+* Valogianni, K., et al. (2020). Sustainable Electric Vehicle Charging using Adaptive Pricing. Production and Operations Management, <https://doi.org/10.1111/poms.13179>
 * Naumov, S., Keith, D.R. and Fine, C.H. (2020), Unintended Consequences of Automated Vehicles and Pooling for Urban Transportation Systems. Prod Oper Manag, 29: 1354-1371. <https://doi.org/10.1111/poms.13166>
 
 ## 2018
