@@ -31,6 +31,9 @@ The following list is updated from Ye Hongbo‘s github [repository](https://git
 ## 2015
 * Liu, C., Mak, V. and Rapoport, A. (2015), Cost-sharing in directed networks: Experimental study of equilibrium choice and system dynamics. Journal of Operations Management, 39-40: 31-47. https://doi.org/10.1016/j.jom.2015.07.004
 
+
+------
+
 # Production and Operations Management
 
 ## 2023 
@@ -59,6 +62,7 @@ The following list is updated from Ye Hongbo‘s github [repository](https://git
 * Mak, V., Seale, D.A., Gisches, E.J., Yang, R., Cheng, M., Moon, M. and Rapoport, A. (2018), The Braess Paradox and Coordination Failure in Directed Networks with Mixed Externalities. Prod Oper Manag, 27: 717-733. https://doi.org/10.1111/poms.12827
 
 
+------
 # Manufacturing & Service Operations Management
 
 ## 2023
@@ -109,7 +113,7 @@ The following list is updated from Ye Hongbo‘s github [repository](https://git
 ## 2016
 * He, L., Mak, H., Rong, Y., & Shen, Z. M. (2016). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. https://doi.org/10.1287/msom.2016.0611
 
-
+------
 # Operations Research
 ## 2023
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. https://doi.org/10.1287/opre.2023.2446
