@@ -115,6 +115,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 ## 2016
 * He, L., Mak, H., Rong, Y., & Shen, Z. M. (2016). Service Region Design for Urban Electric Vehicle Sharing Systems. Manufacturing & Service Operations Management, 19(2), 309–327. <https://doi.org/10.1287/msom.2016.0611>
 
+<br>
 ==========
 # Operations Research
 ## 2023
