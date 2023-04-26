@@ -120,6 +120,4 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 # Operations Research
 ## 2023
 * Benjaafar, S., & Shen, X. (2023). Pricing in On-Demand and One-Way Vehicle-Sharing Networks. Operations Research. <https://doi.org/10.1287/opre.2023.2446>
-
-## 2022
-* Chen, Q., Lei, Y., & Jasin, S. (2022). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. <https://doi.org/10.1287/opre.2022.2425>
+* Chen, Q., Lei, Y., & Jasin, S. (2023). Real-Time Spatial–Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near-Optimal Policies and the Value of Dynamic Pricing. Operations Research. <https://doi.org/10.1287/opre.2022.2425>
