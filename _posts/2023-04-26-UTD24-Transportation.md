@@ -31,7 +31,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 ## 2015
 * Liu, C., Mak, V. and Rapoport, A. (2015), Cost-sharing in directed networks: Experimental study of equilibrium choice and system dynamics. Journal of Operations Management, 39-40: 31-47. <https://doi.org/10.1016/j.jom.2015.07.004>
 
-
+<br>
 ==========
 
 # Production and Operations Management
@@ -63,7 +63,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 * Freund, D., Henderson, S.G. and Shmoys, D.B. (2018), Minimizing Multimodular Functions and Allocating Capacity in Bike-Sharing Systems. Prod Oper Manag, 27: 2346-2349. <https://doi.org/10.1111/poms.12965>
 * Mak, V., Seale, D.A., Gisches, E.J., Yang, R., Cheng, M., Moon, M. and Rapoport, A. (2018), The Braess Paradox and Coordination Failure in Directed Networks with Mixed Externalities. Prod Oper Manag, 27: 717-733. <https://doi.org/10.1111/poms.12827>
 
-
+<br>
 ==========
 # Manufacturing & Service Operations Management
 
