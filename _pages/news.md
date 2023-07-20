@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+\[July 2023\] Passed my Ph.D thesis defense, a milestone in my career!
+
 \[December 2022\] Gave a presentation on 26th HKSTS international conference \[[slides](https://zf-z.github.io/files/Zhengfei_HKSTS-2022.pdf)\]
 
 \[December 2021\] One co-authored paper is accepted Transportation Research Part B: Methodological !
