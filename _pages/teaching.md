@@ -17,7 +17,7 @@ author_profile: true
   
 ## Postgraduate Course
 - CIEM5620 and CIVL 5620-Travel Demand Analysis, HKUST
-  + 2022 Fall, 2021 Spring, 2020 Fall
+  + 2023 Fall, 2022 Fall, 2021 Spring, 2020 Fall
 - CIVL5610-Urban Transportation Networks Analysis, HKUST
   + 2021 Fall
 
