@@ -38,6 +38,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 
 ## 2023 
 
+* Diao, W., Jiang, B., & Tian, L. (2023). Competition between P2P Ridesharing Platforms and Traditional Taxis. Production and Operations Management (forthcoming). Available at SSRN: <https://ssrn.com/abstract=4050640> or <http://dx.doi.org/10.2139/ssrn.4050640>
 * Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1– 18. <https://doi.org/10.1111/poms.13965>
 * Sun L, Hua G, Teunter R H, et al.(2023). The effects of tokenization on ride‐hailing blockchain platforms. Production and Operations Management. <https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14007>
 
