@@ -38,6 +38,7 @@ The following list is updated from Ye Hongbo‘s [github repository](https://git
 
 ## 2023 
 
+* Bai, J. B., Heese, H. S., & Tripathy, M. (2023). Hiding in plain Sight: Surge pricing and strategic providers. Production and Operations Management.<https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.14064>
 * Lu, Y., Wang, Y., Chen, Y., & Xiong, Y. (2023). The Role of Data-Based Intelligence and Experience on Time Efficiency of Taxi Drivers: An Empirical Investigation using Large-Scale Sensor Data. Production and Operations Management (forthcoming). Available at SSRN: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075021> or <https://onlinelibrary.wiley.com/doi/epdf/10.1111/poms.14056>.
 * Diao, W., Jiang, B., & Tian, L. (2023). Competition between P2P Ridesharing Platforms and Traditional Taxis. Production and Operations Management (forthcoming). Available at SSRN: <https://ssrn.com/abstract=4050640> or <http://dx.doi.org/10.2139/ssrn.4050640>
 * Logothetis, D., & Economou, A. (2023). The impact of information on transportation systems with strategic customers. Production and Operations Management, 00, 1– 18. <https://doi.org/10.1111/poms.13965>
