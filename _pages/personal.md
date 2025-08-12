@@ -1,4 +1,3 @@
-![23f5014d980b4ee0397ed62ed905fd6e](https://github.com/user-attachments/assets/367a3bea-a0f6-4adc-8756-25be135342c1)---
 layout: archive
 title: null
 permalink: /personal/
