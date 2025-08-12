@@ -8,6 +8,16 @@ author_profile: true
 You can also find my papers in [my Google Scholar](https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en). <br>
 
 # Journal Papers
+## 2025
+* **Routing and adopting of green technology in road freight transportation under the carbon cap-and-trade scheme** \[[link](https://www.sciencedirect.com/science/article/pii/S1366554525002340)\], Zhijia Tan, Ming Wang, **Zhengfei Zheng** (Corresponding author), Hai Yang. Transportation Research Part E: Logistics and Transportation Review 203 (2025):104193. <br>
+
+* **Competition in complementary transport services: Integrating bike-sharing with public transit** \[[link](https://www.sciencedirect.com/science/article/pii/S1366554525004053)\], **Zhengfei Zheng**, Jun Wang, Wei Liu, Hai Yang. Transportation Research Part E: Logistics and Transportation Review 203 (2025):104364. <br>
+
+
+## 2024
+* **A multi-functional simulation platform for on-demand ride service operations** \[[link](https://www.sciencedirect.com/science/article/pii/S2772424724000246)\], Siyuan Feng, Taijie Chen, Yuhao Zhang, Jintao Ke, **Zhengfei Zheng**, Hai Yang. Communications in Transportation Research 4 (2024):100141. <br>
+
+
 ## 2021
 * **CityNet: A Multi-city Multi-modal Dataset for Smart City Applications** \[[pdf](https://arxiv.org/pdf/2106.15802.pdf)\], Xu Geng, Yilun Jin,
 **Zhengfei Zheng**, Yu Yang, etc. 35th Conference on Neural Information Processing Systems (NeurIPS), 2021.  <br>
