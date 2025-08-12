@@ -1,4 +1,4 @@
----
+![23f5014d980b4ee0397ed62ed905fd6e](https://github.com/user-attachments/assets/367a3bea-a0f6-4adc-8756-25be135342c1)---
 layout: archive
 title: null
 permalink: /personal/
@@ -37,3 +37,10 @@ Peer friendships are precious treasures in our life. Some of my elite friends ar
 [Zhengtian Xu](https://blogs.gwu.edu/zhengtian/), Assistant Professor at the George Washington University.
 
 <br>
+
+My beloved daughter and wife
+======
+![23f5014d980b4ee0397ed62ed905fd6e](https://github.com/user-attachments/assets/918b0b53-3f87-4264-a258-e1fab98ed8d4)
+
+![a6b4e870e2e202dabfef6c3460fdc578](https://github.com/user-attachments/assets/333fdac0-58a4-49a6-96ce-9cb88d0d9d33)
+
