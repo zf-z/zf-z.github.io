@@ -15,7 +15,7 @@ author_profile: true
 - Helper, the International Symposium on the Recent Advances in Intelligent Transportation Systems and Traffic Flow Theory: The Frontier and Challenges. 2014, Zhejiang University.
 
 # Internship and project experience
-- Principal Engineer at [DISCO](https://www.disco.hk/), developing intelligent traffic signal control algorithms and platforms at a startup founded by Prof. Hong Kam Lo, Dean of Engineering at HKUST., March 2025 - Present, Hong Kong.
+- Principal Engineer at [DISCO](https://www.disco.hk/), developing intelligent traffic signal control algorithms and platforms at a startup founded by Prof. Hong Kam Lo, Dean of Engineering at HKUST, March 2025 - Present, Hong Kong.
 - Part-time Senior R&D Engineer at [ORCAUBOAT](https://orca-tech.cn/), developing advanced machine learning algorithms and solving complex routing optimization problems, May 2025 - Present, Shenzhen.
 - Intern in [DiDi Chuxing](https://www.didiglobal.com/), working on big data analytics, Aug-Dec 2019, Beijing.
 - Participant in a theme-based project ([TRS T41-603/20-R](https://tacc.ust.hk/projects.html)) to develop a visualization system for large scale ride-sourcing systems, 2020-present, HKUST.
