@@ -8,7 +8,7 @@ author_profile: true
 You can also find my papers in [my Google Scholar](https://scholar.google.com/citations?user=Ois057kAAAAJ&hl=en). <br>
 
 # Journal Papers
-##2026
+## 2026
 * **Ride-sourcing services with user protection regulation of the cryptocurrency fare-reward scheme** \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1366554526003674)\], Dong-Hoon Son, **Zhengfei Zheng** (Corresponding author), Hai Yang. Transportation Research Part E: Logistics and Transportation Review 214 (2026):105028. <br>
 
 * **RiskFormer: A UAV-assisted trajectory-to-risk deep learning approach for fine-grained proactive traffic conflict prediction** \[[link](https://www.sciencedirect.com/science/article/pii/S0968090X26004742)\], Yikang Rui, Ziwei Yi, **Zhengfei Zheng**, Wenqi Lu, Bin Ran. Transportation Research Part C: Emerging Technologies 194 (2027):105988. <br>
